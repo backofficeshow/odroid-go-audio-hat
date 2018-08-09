@@ -17,3 +17,14 @@ crashoverride knows all the magic gpio runes!
 
 https://www.youtube.com/backofficeshow
 Come chat with me on discord https://discord.gg/6UB4Zj7
+
+Useful Links
+
+PCM5102 Datasheet:
+http://www.ti.com/lit/ds/slas764b/slas764b.pdf
+
+Odroid-go Overview:
+https://www.hardkernel.com/main/products/prdt_info.php?g_code=G152875062626
+
+Odroid-go IO Information:
+https://wiki.odroid.com/odroid_go/odroid_go#odroid-go_header_p2_description
