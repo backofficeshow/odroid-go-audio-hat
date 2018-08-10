@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.2" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.2" unitdist="mil" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -137,10 +137,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="-0.020321875" y1="0.015240625" x2="65.689678125" y2="0.015240625" width="0" layer="20"/>
-<wire x1="65.689678125" y1="0.015240625" x2="65.72015625" y2="10.04331875" width="0" layer="20"/>
-<wire x1="65.72015625" y1="10.04331875" x2="0.01015625" y2="10.04331875" width="0" layer="20" curve="20"/>
-<wire x1="0.01015625" y1="10.04331875" x2="-0.020321875" y2="0.015240625" width="0" layer="20"/>
+<wire x1="-0.020321875" y1="0.015240625" x2="65" y2="0" width="0" layer="20"/>
+<wire x1="65" y1="0" x2="65" y2="10" width="0" layer="20"/>
+<wire x1="65" y1="10" x2="0" y2="10" width="0" layer="20" curve="20"/>
+<wire x1="0" y1="10" x2="-0.020321875" y2="0.015240625" width="0" layer="20"/>
 <rectangle x1="63.6955875" y1="2.217425" x2="63.8530625" y2="2.22250625" layer="21" rot="R270"/>
 <rectangle x1="63.69050625" y1="3.08610625" x2="63.8479875" y2="3.09118125" layer="21" rot="R270"/>
 <rectangle x1="63.690509375" y1="2.217428125" x2="63.847984375" y2="2.222503125" layer="21" rot="R270"/>
