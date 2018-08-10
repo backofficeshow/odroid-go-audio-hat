@@ -6245,6 +6245,7 @@ Source: http://www.lumberg.com/Produkte/PDFs/1501_03.pdf</description>
 <wire x1="187.96" y1="78.74" x2="187.96" y2="76.2" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="78.74" x2="203.2" y2="78.74" width="0.1524" layer="91"/>
 <label x="193.04" y="78.74" size="1.778" layer="95"/>
+<junction x="187.96" y="78.74"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="XSMT"/>
@@ -6294,6 +6295,16 @@ Source: http://www.lumberg.com/Produkte/PDFs/1501_03.pdf</description>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="106,1,185.42,124.46,MISO,,,,,"/>
+<approved hash="106,1,185.42,121.92,MOSI,,,,,"/>
+<approved hash="106,1,185.42,127,NC,,,,,"/>
+<approved hash="106,1,185.42,109.22,SCK,,,,,"/>
+<approved hash="106,1,185.42,129.54,VBUS,,,,,"/>
+<approved hash="108,1,187.96,78.74,XSMT,,,,,"/>
+<approved hash="113,1,131.168,89.431,FRAME1,,,,,"/>
+<approved hash="113,1,185.183,116.709,JP1,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
