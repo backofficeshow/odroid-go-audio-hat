@@ -9125,7 +9125,7 @@ design rules under a new name.</description>
 <element name="C1" library="resistor" package="C0603" value="100nF" x="48.3362" y="9.31671875" smashed="yes" rot="R90">
 <attribute name="NAME" x="49.3522" y="7.635240625" size="1.27" layer="25" rot="R180"/>
 </element>
-<element name="R1" library="resistor" package="R0603" value="7k5" x="40.497759375" y="9.784071875" smashed="yes" rot="R180">
+<element name="R1" library="resistor" package="R0603" value="2k7" x="40.497759375" y="9.784071875" smashed="yes" rot="R180">
 <attribute name="NAME" x="41.63059375" y="8.549628125" size="1.27" layer="25" rot="R180"/>
 </element>
 <element name="R2" library="resistor" package="R0603" value="22R" x="22.184365625" y="6.263640625" smashed="yes" rot="R90">
@@ -9140,7 +9140,7 @@ design rules under a new name.</description>
 <element name="C2" library="resistor" package="C0603" value="100nF" x="48.3768375" y="3.58648125" smashed="yes" rot="R180">
 <attribute name="NAME" x="49.336953125" y="6.004559375" size="1.27" layer="25" rot="R180"/>
 </element>
-<element name="R5" library="resistor" package="R0603" value="2k7" x="40.548565625" y="3.60171875" smashed="yes" rot="R180">
+<element name="R5" library="resistor" package="R0603" value="7k5" x="40.548565625" y="3.60171875" smashed="yes" rot="R180">
 <attribute name="NAME" x="39.497009375" y="4.790446875" size="1.27" layer="25"/>
 </element>
 <element name="C3" library="resistor" package="C0603" value="2u2" x="53.56351875" y="9.83488125" smashed="yes" rot="R180">
@@ -9164,10 +9164,10 @@ design rules under a new name.</description>
 <element name="R7" library="resistor" package="R0603" value="470R" x="12.7406375" y="10.022840625" smashed="yes">
 <attribute name="NAME" x="11.67891875" y="7.655559375" size="1.27" layer="25"/>
 </element>
-<element name="C8" library="resistor" package="C0603" value="2u2" x="17.211040625" y="6.517640625" smashed="yes">
+<element name="C8" library="resistor" package="C0603" value="2n2" x="17.211040625" y="6.517640625" smashed="yes">
 <attribute name="NAME" x="16.14931875" y="4.124959375" size="1.27" layer="25"/>
 </element>
-<element name="C9" library="resistor" package="C0603" value="2u2" x="17.145003125" y="10.04315625" smashed="yes" rot="R180">
+<element name="C9" library="resistor" package="C0603" value="2n2" x="17.145003125" y="10.04315625" smashed="yes" rot="R180">
 <attribute name="NAME" x="18.12544375" y="8.910315625" size="1.27" layer="25" rot="R180"/>
 </element>
 <element name="X2" library="con-lumberg" package="1501_03" value="1501_03" x="2.519678125" y="5.095240625" smashed="yes" rot="R90">

@@ -5903,12 +5903,12 @@ Source: http://www.lumberg.com/Produkte/PDFs/1501_03.pdf</description>
 <part name="U$1" library="PCM5102" deviceset="PCM5102" device=""/>
 <part name="JP1" library="pinhead" deviceset="PINHD-1X10" device="/90"/>
 <part name="C1" library="resistor" deviceset="C-EU" device="C0603" value="100nF"/>
-<part name="R1" library="resistor" deviceset="R-EU_" device="R0603" value="7k5"/>
+<part name="R1" library="resistor" deviceset="R-EU_" device="R0603" value="2k7"/>
 <part name="R2" library="resistor" deviceset="R-EU_" device="R0603" value="22R"/>
 <part name="R3" library="resistor" deviceset="R-EU_" device="R0603" value="22R"/>
 <part name="R4" library="resistor" deviceset="R-EU_" device="R0603" value="22R"/>
 <part name="C2" library="resistor" deviceset="C-EU" device="C0603" value="100nF"/>
-<part name="R5" library="resistor" deviceset="R-EU_" device="R0603" value="2k7"/>
+<part name="R5" library="resistor" deviceset="R-EU_" device="R0603" value="7k5"/>
 <part name="C3" library="resistor" deviceset="C-EU" device="C0603" value="2u2"/>
 <part name="C4" library="resistor" deviceset="C-EU" device="C0603" value="2u2"/>
 <part name="C5" library="resistor" deviceset="C-EU" device="C0603" value="2u2"/>
@@ -5916,8 +5916,8 @@ Source: http://www.lumberg.com/Produkte/PDFs/1501_03.pdf</description>
 <part name="C7" library="resistor" deviceset="C-EU" device="C0603" value="10uF"/>
 <part name="R6" library="resistor" deviceset="R-EU_" device="R0603" value="470R"/>
 <part name="R7" library="resistor" deviceset="R-EU_" device="R0603" value="470R"/>
-<part name="C8" library="resistor" deviceset="C-EU" device="C0603" value="2u2"/>
-<part name="C9" library="resistor" deviceset="C-EU" device="C0603" value="2u2"/>
+<part name="C8" library="resistor" deviceset="C-EU" device="C0603" value="2n2"/>
+<part name="C9" library="resistor" deviceset="C-EU" device="C0603" value="2n2"/>
 <part name="X2" library="con-lumberg" deviceset="1501_03" device=""/>
 <part name="X1" library="con-lumberg" deviceset="1501_03" device=""/>
 </parts>
