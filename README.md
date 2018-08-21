@@ -1,6 +1,8 @@
 # odroid-go-audio-hat
 An I2S Audio Hat for stereo sound from the odroid-go
 
+UPDATE: The live build stream! https://youtu.be/j9-wCR7noaQ
+
 1) A Manual Mod Was Made:
 
 https://youtu.be/pp_DPHiUhcc
